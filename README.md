@@ -2,6 +2,11 @@
 
 This project presents an interactive **Sales Dashboard** built using **Power BI** to analyze and visualize sales data. It helps businesses track KPIs such as total revenue, profit, region-wise performance, and product/category trends over time.
 
+## 📊 Power BI Dashboard Preview
+
+![Power BI Sales Dashboard](Sales_Dashboard.png)
+
+
 ## 📊 Key Features
 
 - Total Sales, Profit, Quantity KPIs
