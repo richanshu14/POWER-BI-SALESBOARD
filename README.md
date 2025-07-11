@@ -6,6 +6,18 @@ This project presents an interactive **Sales Dashboard** built using **Power BI*
 
 ![Power BI Sales Dashboard](Sales_Dashboard.png)
 
+## 📈 Key Insights from the Sales Dashboard
+
+- 💰 **Top-Performing Region**: The West region contributes the highest revenue and profit across all segments.
+- 🛍️ **Most Profitable Category**: Technology generates the most profit, while Furniture lags in profit margins.
+- 📉 **Loss-Making Segments**: Some sub-categories in Furniture, such as Bookcases and Tables, result in negative profits.
+- 🧑‍💼 **Top Customers**: A few high-value customers contribute significantly to overall sales — ideal for loyalty targeting.
+- 🏙️ **City-Wise Insights**: New York and Los Angeles show consistently strong sales, while some cities underperform.
+- 📦 **Shipping Mode Efficiency**: Standard Class is the most used, but Second Class and Same Day offer better delivery satisfaction.
+- 📅 **Sales Trend Over Time**: Sales peak during Q4 across most years, indicating seasonal buying behavior.
+- ⚖️ **Profit vs Discount**: High discounts often correlate with low or negative profits — needs pricing strategy refinement.
+- 🧭 **Segment Comparison**: Consumer segment dominates in both sales and order volume compared to Corporate and Home Office.
+- 📊 **Return on Investment**: Identified regions and products with high sales but low returns for strategic improvement.
 
 ## 📊 Key Features
 
